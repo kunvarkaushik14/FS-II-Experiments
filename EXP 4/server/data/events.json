@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1788356335292",
+    "title": "physics",
+    "start": "2026-09-02T03:30:00.000Z",
+    "end": "2026-09-02T04:30:00.000Z",
+    "category": "Assignment",
+    "location": "class",
+    "description": ""
+  },
+  {
+    "id": "1788356354112",
+    "title": "maths",
+    "start": "2026-09-04T05:30:00.000Z",
+    "end": "2026-09-04T06:30:00.000Z",
+    "category": "Lecture",
+    "location": "lab",
+    "description": ""
+  },
+  {
+    "id": "1788356379083",
+    "title": "eng",
+    "start": "2026-09-05T07:30:00.000Z",
+    "end": "2026-09-05T08:30:00.000Z",
+    "category": "Assignment",
+    "location": "class",
+    "description": ""
+  },
+  {
+    "id": "1788356397655",
+    "title": "hindi",
+    "start": "2026-09-05T03:30:00.000Z",
+    "end": "2026-09-05T05:30:00.000Z",
+    "category": "Assignment",
+    "location": "class",
+    "description": ""
+  },
+  {
+    "id": "1788356419447",
+    "title": "scien",
+    "start": "2026-09-03T03:30:00.000Z",
+    "end": "2026-09-03T04:30:00.000Z",
+    "category": "Assignment",
+    "location": "class",
+    "description": ""
+  },
+  {
+    "id": "1788356442329",
+    "title": "hindi",
+    "start": "2026-09-02T07:30:00.000Z",
+    "end": "2026-09-02T08:30:00.000Z",
+    "category": "Assignment",
+    "location": "class",
+    "description": ""
+  },
+  {
+    "id": "1788356463484",
+    "title": "maths",
+    "start": "2026-09-02T06:00:00.000Z",
+    "end": "2026-09-02T07:00:00.000Z",
+    "category": "Assignment",
+    "location": "class",
+    "description": ""
+  },
+  {
+    "id": "1788356526068",
+    "title": "maths",
+    "start": "2026-09-04T09:30:00.000Z",
+    "end": "2026-09-04T10:30:00.000Z",
+    "category": "Exam",
+    "location": "",
+    "description": ""
+  }
+]
